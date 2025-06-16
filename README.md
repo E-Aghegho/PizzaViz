@@ -1,4 +1,4 @@
-# 🍕 PizzaVis
+# 🍕 Pizza Vis
 
 **A Power BI dashboard project that uncovers data-driven insights into pizza sales, order trends, and customer preferences.** This repository showcases visual storytelling through interactive charts and reports, enabling smarter decision-making in the pizza business.
 
