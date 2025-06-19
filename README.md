@@ -45,6 +45,11 @@ The dashboard helps identify patterns, peak demand periods, and underperforming 
 
 **📷 Dashboard Preview**
 
+![Home Dashboard](home_dashboard.png)  
+*Home dashboard with key metrics and performance indicators*
+
+![Sellers Dashboard](sellers_dashboard.png)  
+*Sellers dashboard highlighting top and bottom pizza performers*
 
 ---
 
