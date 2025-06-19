@@ -57,3 +57,13 @@ The dashboard helps identify patterns, peak demand periods, and underperforming 
 
 For questions, suggestions, or pizza debates:  
 Send me an email or message on my Linked In!
+
+---
+
+**📚 Inspiration**
+
+This project was heavily inspired by the excellent walkthrough and instruction provided in the **Power BI & SQL Project | Data Analyst Portfolio** series by *Data Tutorials* on YouTube.  
+Their step-by-step guidance played a major role in shaping my Power BI skills and building this dashboard.  
+Huge thanks to their channel for making quality learning accessible to everyone!
+
+[Check them out here](https://www.youtube.com/@DataTutorials)
