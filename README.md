@@ -66,4 +66,4 @@ This project was heavily inspired by the excellent walkthrough and instruction p
 Their step-by-step guidance played a major role in shaping my Power BI skills and building this dashboard.  
 Huge thanks to their channel for making quality learning accessible to everyone!
 
-[Check them out here](https://www.youtube.com/@DataTutorials)
+[Check them out here](https://www.youtube.com/@DataTutorials1)
